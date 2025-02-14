@@ -4,7 +4,7 @@
 This project develops a customer segmentation strategy for TravelTide, a travel agency, aimed at enhancing email marketing through personalized perks. By analyzing session-level data (with sessions after January 4, 2023 and users with more than 7 sessions) and applying a hybrid segmentation approach—combining rule-based filtering and hierarchical clustering—we identified distinct customer segments and assigned tailored perks to each group. 
 
 ## Files in this Repository
-- **[Final_TravelTide.ipynb](./Final_TravelTide.ipynb)**  
+- **[Final_TravelTide.ipynb](Final__TravelTide.ipynb)**  
   The complete Python notebook containing the data cleaning, feature engineering, clustering analysis, and detailed project descriptions.
 
 - **[TravelTide summary.pdf](./TravelTide%20Summary.pdf)**  
