@@ -20,7 +20,7 @@ This project develops a customer segmentation strategy for TravelTide, a travel 
   The final CSV file containing the user-level segmentation and assigned perks.
 
 - **[Recorded Presentation](https://drive.google.com/file/d/1slF6Wd8y22ExAiqAucehKJNkFSUpO3Xn/view?usp=sharing)**  
-  A link to the recorded presentation will be added here once available.
+  A link to the recorded presentation. Unfortunately, my camera did not work properly - only slides+sound
 
 
 
